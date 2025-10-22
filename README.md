@@ -6,7 +6,7 @@ A performance comparison between **Q-Learning** and classical algorithms for fin
 
 This project demonstrates how a Q-Learning agent can learn to navigate a graph efficiently and compares it with traditional algorithms like BFS. The focus is on evaluating:Time and Memory usage  
 
-All the algorithms were tested on the same input graph  
+All algorithms were tested on the same input graph  
 
 BFS and DFS performance  
 ![BFS and DFS performance](images/image.png)  
