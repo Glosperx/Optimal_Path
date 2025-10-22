@@ -1,2 +1,11 @@
-# Shortest_Path
-A performance comparison between Q-Learning and classical algorithms like Breadth-First Search for finding paths with minimal cost in a graph.
+# Minimal Cost Path Comparison
+
+A performance comparison between **Q-Learning** and classical algorithms for finding paths with minimal total cost in a graph.
+
+## Overview
+
+This project demonstrates how a Q-Learning agent can learn to navigate a graph efficiently and compares it with traditional algorithms like BFS. The focus is on evaluating:
+
+- **Execution time**
+- **Memory usage**
+
